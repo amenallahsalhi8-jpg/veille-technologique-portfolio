@@ -1,0 +1,53 @@
+QCM
+QCM diagnostique — 10 questions
+Consigne : une seule réponse est correcte pour chaque question. Le QCM est diagnostique et non noté.
+1. Quelle définition décrit le mieux l’intelligence artificielle ?
+A. Un programme qui utilise uniquement des règles écrites manuellement.
+B. Un domaine qui cherche à concevoir des systèmes capables d’accomplir des tâches associées à des capacités intelligentes.
+C. Une technologie réservée aux robots physiques.
+D. Une méthode permettant uniquement de générer du texte.
+2. Que caractérise principalement le Machine Learning ?
+A. Le stockage de toutes les réponses possibles dans une base de données.
+B. L’apprentissage de régularités à partir de données pour réaliser notamment des prédictions ou classifications.
+C. La suppression de toute intervention humaine.
+D. La création obligatoire d’images ou de vidéos.
+3. Le Deep Learning est :
+A. Un synonyme exact de l’IA.
+B. Une méthode qui ne nécessite aucune donnée.
+C. Une famille de méthodes de Machine Learning utilisant notamment des réseaux de neurones à plusieurs couches.
+D. Un type de base de données.
+4. Qu’est-ce que l’IA générative ?
+A. Un système qui ne fait que rechercher des documents existants.
+B. Un système capable de générer de nouveaux contenus à partir d’une instruction et/ou d’un contexte.
+C. Un système qui donne toujours des réponses exactes.
+D. Une technique limitée à la robotique.
+5. Que signifie LLM ?
+A. Logical Learning Machine
+B. Large Language Model
+C. Long Learning Memory
+D. Language Logic Module
+6. Concernant un LLM, quelle affirmation est correcte ?
+A. Il vérifie automatiquement chaque information dans une source scientifique officielle.
+B. Il génère du texte à partir de représentations apprises et du contexte fourni, sans garantir automatiquement la véracité de chaque affirmation.
+C. Il ne peut produire que des phrases déjà présentes dans ses données d’entraînement.
+D. Il fonctionne uniquement comme un moteur de recherche.
+7. Lequel est le meilleur exemple de prompt précis ?
+A. « Explique l’IA. »
+B. « IA ? »
+C. « Donne-moi quelque chose sur le Deep Learning. »
+D. « Explique le Deep Learning à un étudiant de L1 en 150 mots, avec un exemple simple et sans équations. »
+8. Qu’appelle-t-on une hallucination d’une IA générative ?
+A. Une réponse volontairement humoristique.
+B. Une réponse contenant uniquement une erreur de grammaire.
+C. Une information fausse, inventée ou non étayée présentée comme plausible.
+D. Une réponse trop courte.
+9. Quelle démarche est la plus appropriée pour vérifier une référence scientifique fournie par une IA ?
+A. Considérer la référence comme vraie parce que la réponse est bien écrite.
+B. Demander à la même IA si sa propre référence est correcte et s’arrêter là.
+C. Vérifier l’article, les auteurs, la revue, l’année et le DOI dans une source fiable.
+D. Choisir la référence qui semble la plus convaincante.
+10. Quel exemple illustre un risque de biais dans un système d’IA ?
+A. Le modèle produit une réponse plus courte que prévu.
+B. Les données d’entraînement représentent fortement une population A mais très peu une population B, ce qui peut affecter les performances pour B.
+C. L’utilisateur pose une question trop longue.
+D. Le modèle utilise une interface graphique.
